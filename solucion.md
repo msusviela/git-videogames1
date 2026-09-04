@@ -146,3 +146,4 @@ Si no aparece, se puede ir a la pestaña de Settings (o configuración) dentro d
 
 Ejemplo de issue: https://github.com/msusviela/git-videogames1/issues/2
 
+> PD: Este archivo fue creado utilizando el formato Markdown, pueden utilizarlo como referencia para ver cómo se agregaron enlaces, imágenes, etc.
