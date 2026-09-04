@@ -30,9 +30,10 @@ A platformer is a genre where the player controls a character jumping and climbi
 
 ## Puzzle
 
-<!-- Agregar descripción del género y link a Wikipedia -->
+Los videojuegos de lógica, también conocidos como videojuegos de inteligencia o videojuegos de puzle, son un género de videojuegos que se caracteriza por exigir agilidad mental al jugador para resolver enigmas por lo regular en una sola pantalla. Pueden o no tener una historia detrás.
+[Wikipedia](https://es.wikipedia.org/wiki/Videojuego_de_l%C3%B3gica)
 
-- Tetris
+- [Tetris](./puzzle/tetris.md)
 
 ## Sandbox
 
