@@ -20,7 +20,14 @@ export class GamesList {
   // Si genre es 'All', retornar todos los juegos.
   // Usá el método .filter(x => condición) del array this.games para filtrar por genre.
   filterByGenre(_genre: string): Game[] {
-    return this.games
+    const currentGames : Game[] = this.games;
+    const games : Game[] = [];
+    for (const g of currentGames) {
+      if (g.genre === _genre || _genre === 'All') {
+        games.push(g);
+      }
+    }
+    return games;
   }
 
   count(): number {
